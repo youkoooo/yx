@@ -1,0 +1,58 @@
+{
+  "id": "1889927",
+  "name": "mamba_wyyx",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon",
+  "description": "vue实战: 网易严选项目",
+  "glyphs": [
+    {
+      "icon_id": "949",
+      "name": "买",
+      "font_class": "mai",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "798101",
+      "name": "搜索",
+      "font_class": "sousuo",
+      "unicode": "e643",
+      "unicode_decimal": 58947
+    },
+    {
+      "icon_id": "1110411",
+      "name": "下箭头",
+      "font_class": "jiantou9",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    },
+    {
+      "icon_id": "5732293",
+      "name": "分类",
+      "font_class": "sort",
+      "unicode": "e65e",
+      "unicode_decimal": 58974
+    },
+    {
+      "icon_id": "5912741",
+      "name": "购物车",
+      "font_class": "gouwuche",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "13769961",
+      "name": "个人",
+      "font_class": "geren",
+      "unicode": "e60c",
+      "unicode_decimal": 58892
+    },
+    {
+      "icon_id": "14560695",
+      "name": "首页",
+      "font_class": "shouye",
+      "unicode": "e627",
+      "unicode_decimal": 58919
+    }
+  ]
+}
